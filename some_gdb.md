@@ -1,5 +1,5 @@
-# Starting GDB 
-gdb --silent my_program 
+clear# Starting GDB 
+ my_program 
 
 Explanation: 
 ● –silent: Suppresses startup information. 
